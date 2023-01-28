@@ -1,0 +1,46 @@
+body {
+	
+}
+
+.pp {
+	background: #00a0b2 !important;
+}
+
+.banner-background {
+	clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 80%, 66% 79%, 33% 87%, 0 86%, 0% 30%
+		);
+}
+
+.banner-background {
+	clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 91%, 63% 100%, 22% 91%, 0 99%, 0 0);
+}
+
+.post-title {
+	font-weight: 100;
+	font-size: 30px;
+}
+
+.post-content {
+	font-weight: 100;
+	font-size: 25px;
+}
+
+.post-date {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.post-user-info {
+	font-size: 20px;
+}
+
+.row-user {
+	border: 1px solid #e2e2e2;
+	padding-top: 15px;
+}
+
+body {
+	background: url(img/bg.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+}

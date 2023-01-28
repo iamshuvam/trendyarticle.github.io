@@ -1,0 +1,26 @@
+
+<%@page import="com.tech.blog.entities.User"%>
+<%
+	User user = (User)session.getAttribute("currentUser");
+	if(user==null){
+	
+	}else{
+		response.sendRedirect("login_page.jsp");
+	}
+
+ %>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<%= user.getUsername() %> <br>
+	<%= user.getEmail() %> <br>
+	<%= user.getId()%> <br>
+	<%= user.getUsername() %>
+</body>
+</html>

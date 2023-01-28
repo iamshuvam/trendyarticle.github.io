@@ -1,0 +1,15 @@
+package com.tech.blog.entities;
+
+import java.sql.*;
+
+public class Post {
+	private int pid;
+    private String pTitle;
+    private String pContent;
+    private String pCode;
+    private String pPic;
+    private Timestamp pDate;
+    private int catId;
+    private int userId;
+
+}

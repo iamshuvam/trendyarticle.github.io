@@ -1,0 +1,25 @@
+	<div class="container-fluid m-0 p-0 banner-background">
+	<div class="jumbotron pp text-white">
+		<div class="container">
+			<h3 class="display-3">Welcome Geeks</h3>
+			<h3>TechBlog</h3>
+			<p>A programming language is a system of notation for writing
+				computer programs.[1] Most programming languages are text-based
+				formal languages, but they may also be graphical. They are a kind of
+				computer language.</p>
+			<button class="btn btn-outline-light">
+				<span class="fa fa-pencil-square-o"></span>Start !its Free
+			</button>
+			<a href="login_page.jsp" class="btn btn-outline-light">
+				<span class="fa fa-user fa-spin"></span>Login
+			</a>
+		</div>
+	</div>
+	</div>
+
+
+		<%@include file="load_post.jsp" %>
+		
+
+
+	</div>

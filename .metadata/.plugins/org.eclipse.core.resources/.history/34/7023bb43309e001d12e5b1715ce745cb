@@ -1,0 +1,10 @@
+body {
+	
+}
+.pp{
+	background: #00a0b2!important;
+}
+.banner-background{
+	clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 80%, 66% 79%, 33% 87%, 0 86%, 0% 30%);
+}
+

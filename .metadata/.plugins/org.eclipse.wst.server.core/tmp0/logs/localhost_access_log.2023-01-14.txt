@@ -1,0 +1,10 @@
+127.0.0.1 - - [14/Jan/2023:19:58:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:19:58:27 +0530] "GET /TechBlog/ HTTP/1.1" 200 6452
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:19:58:27 +0530] "GET /TechBlog/css/styles.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:19:58:27 +0530] "GET /TechBlog/js/js.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:19:58:27 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:19:59:09 +0530] "GET /TechBlog/registration_page.jsp HTTP/1.1" 200 7531
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:19:59:47 +0530] "POST /TechBlog/RegisterServlet HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:20:00:00 +0530] "GET /TechBlog/login_page.jsp HTTP/1.1" 200 4577
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:20:00:16 +0530] "POST /TechBlog/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Jan/2023:20:00:16 +0530] "GET /TechBlog/profile.jsp HTTP/1.1" 200 205

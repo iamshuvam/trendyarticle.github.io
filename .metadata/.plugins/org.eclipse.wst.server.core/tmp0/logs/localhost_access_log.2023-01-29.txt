@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [29/Jan/2023:00:00:06 +0530] "GET /TechBlog/show_blog_page.jsp?post_id=109 HTTP/1.1" 200 14584
+0:0:0:0:0:0:0:1 - - [29/Jan/2023:00:00:06 +0530] "GET /TechBlog/css/img/bg.jpeg HTTP/1.1" 404 787
